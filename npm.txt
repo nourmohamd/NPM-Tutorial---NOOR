@@ -1,0 +1,28 @@
+NPM ===> Stands From <<< NodeJS Package Manager >>>
+===================================================
+
+Note:
+-----
+NPM is A Documentation for the npm registry, website, and command-line interface
+
+Installiation NodeJS:
+---------------------
+Downloader URL: https://nodejs.org/en/download ===> Window 64-Bit (.msi)
+
+شرح إضافي
+----------
+الأن بي أم هي عبارة عن المكان الذي تستخدمه لاستخدام المكتبات في مشروعك
+ حيث تقوم بكتابة اسم المكتبة وتنزلها من خلال الكوماند الخاص بها وتستخدم هذه المكتبة في مشروعك
+
+After Install NodeJS:
+---------------------
+Will Setup Three Apps In Desktop
+================================
+1 - Node.JS ===> App NodeJS
+2 - Node.js command prompt ===> For Use Packages And Manage It ( Use This Only )
+3 - Install Additional Tools for Node.js ===> For Add Additional Tools In Node.JS
+
+
+NPM Website For Search And Download Packages
+--------------------------------------------
+url ===> https://www.npmjs.com/
