@@ -26,3 +26,7 @@ Will Setup Three Apps In Desktop
 NPM Website For Search And Download Packages
 --------------------------------------------
 url ===> https://www.npmjs.com/
+
+To Download Any Package Use This: npm <<name_package>>
+
+To Remove Any Package Use This: npm uninstall <<name_package>>
